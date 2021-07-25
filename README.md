@@ -34,7 +34,7 @@ A great thank to those who have done fantastic work
 
 # Notes:
 - Inform me in case you have any problem with running the code.
-- Any related idea is welcome at cavidpark@gmail.com 
+- Any related idea is welcome at ihasibrafi@gmail.com 
 
 # UPDATE:
 - Age and gender detection don't need to be performed every frame. Instead, we can detect every 5 or 10 frames to improve the speed of the program. 
